@@ -1,0 +1,15 @@
+if TARGET_IMX8MP_OPTIMA
+
+config SYS_BOARD
+	default "imx8mp_optima"
+
+config SYS_VENDOR
+	default "calixto"
+
+config SYS_CONFIG_NAME
+	default "imx8mp_optima"
+
+config IMX_CONFIG
+	default "board/calixto/imx8mp_optima/imximage-8mp-lpddr4.cfg"
+
+endif

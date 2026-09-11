@@ -1,0 +1,7 @@
+i.MX93 CALIXTO VERSA BOARD
+M:	Abhishek
+S:	Maintained
+F:	board/calixto/imx93_versa
+F:	include/configs/imx93_versa.h
+F:	configs/imx93_calixto_versa_1gb_defconfig
+F:	configs/imx93_calixto_versa_2gb_defconfig
