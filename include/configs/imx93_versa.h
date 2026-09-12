@@ -1,6 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0+ */
 /*
- * Copyright 2025 Calixto Systems
+ * Copyright 2026 Calixto Systems
  */
 
 #ifndef __IMX93_VERSA_H

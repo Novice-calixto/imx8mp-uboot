@@ -9,6 +9,14 @@ config SYS_VENDOR
 config SYS_CONFIG_NAME
 	default "imx8mp_optima"
 
+config IMX8MP_LPDDR4_2GB
+	bool "Using LPDDR4 2GB RAM"
+	
+
+config IMX8MP_LPDDR4_4GB
+	bool "Using LPDDR4 4GB RAM"
+	
+	
 config IMX_CONFIG
 	default "board/calixto/imx8mp_optima/imximage-8mp-lpddr4.cfg"
 
